@@ -1,0 +1,35 @@
+/* naja abdalla site Css file */
+
+#title1 {
+    background-color: #597293d6;
+    text-align: center;
+    width: 300px;
+    height: 50px;
+    padding-top: 3px;
+    border-radius: 10px;
+    margin-top: 5px;
+    top: 21px;
+    position: relative;
+    left: 25%;
+}
+
+#container {
+    background-color: pink;
+    position: relative;
+    width: auto;
+    border-radius: 14px;
+    overflow: auto;
+}
+
+p {
+    text-align: center;
+}
+
+#gForm {
+    position: fixed;
+    width: 50px;
+}
+
+#add {
+    width: 200px;
+}
